@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hasan Yiğit Öztepe</h1>
-<h3 align="center">About Me:</h3>
+<h3 align="center"> 🧿 About Me:</h3>
 
 🌳 - I have been interested in software development since secondary school. The reason why I preferred vocational high school in high school was to learn business life at an early age and step into the software industry. For this reason, I completed my high school education in the Department of Web Design in the field of Information Technologies. I completed my high school internship in a company working on both software and hardware. I graduated from Ondokuz Mayıs University Computer Programming Department as a university. During my education, I completed many projects and gained experience and experience.<br><br>
 📧 - How to contact me - hyoztepe@gmail.com
